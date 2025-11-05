@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:juliaanswls@naver.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/adalovelace">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/%EB%AC%B8%EC%A7%84-%EA%B6%8C-967391391/">💼 LinkedIn</a> •
   <a href="https://github.com/moongs95">👾 GitHub</a>
 </p>
 
