@@ -46,6 +46,7 @@
 - RAWG API 기반 게임 메타데이터 수집 및 추천 모델(Item-based CF) 학습  
 - Airflow로 재학습/추론 자동화, CI/CD 파이프라인 구축  
 - FastAPI 실시간 추천 서비스 배포  
+
 💡 **모델링을 넘어 운영·자동화까지 완결된 MLOps 실무 경험**
 
 ---
@@ -55,6 +56,7 @@
 > **Tech:** Python, Scikit-learn, LightGBM, Optuna, WandB  
 - 외부 데이터(교통·학군·금리 등) 융합 및 Feature Engineering  
 - Optuna 기반 LightGBM 최적화 (RMSE 12,533, 팀 3위)  
+
 💡 **Feature Engineering과 실험 관리 자동화 루틴 확립**
 
 ---
@@ -63,6 +65,7 @@
 > **기간:** 2023 | **역할:** 데이터 분석가  
 > **Tech:** Pandas, Scikit-learn, GeoPandas, Folium  
 - 폭염 요인과 질환자 간 상관 분석 및 시각화  
+
 💡 **정확도보다 정책 인사이트 중심의 분석 경험**
 
 ---
@@ -70,17 +73,18 @@
 #### 🧬 [Infectious Disease Data Pipeline Automation](#)
 > **기간:** 2023 | **역할:** 단독 개발  
 > **Tech:** Python, Pandas, Requests  
-- 감염병 데이터 수집·정제 자동화로 업무시간 70% 절감  
+- 감염병 데이터 수집·정제 자동화로 업무시간 50% 절감  
+
 💡 **작은 자동화부터 단계적으로 확장하는 효율적 전략 학습**
 
 ---
 
 #### 💡 [Responsive Web Design Project (HTML·CSS Study)](https://github.com/moongs95/noonaProject)
-> **기간:** 2021 | **역할:** 팀장 / 프론트엔드 디자인 총괄  
+> **기간:** 2021 | **역할:** 팀장 / 프론트엔드 디자인 기획 및 배너 제작  
 > **Tech:** HTML, CSS, JavaScript, Figma  
 - [반응형 웹사이트 설계 및 발표 진행](https://youtu.be/F-iaFWK7KIE?si=UMkax7Zh9dbBz1za&t=227)
 
-💡 **비개발 직군과 협업하며 시각적 커뮤니케이션 역량 강화**
+💡 **여러 직군과 협업하며 커뮤니케이션 역량 강화**
 
 ---
 
