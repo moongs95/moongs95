@@ -79,6 +79,7 @@
 > **기간:** 2021 | **역할:** 팀장 / 프론트엔드 디자인 총괄  
 > **Tech:** HTML, CSS, JavaScript, Figma  
 - [반응형 웹사이트 설계 및 발표 진행](https://youtu.be/F-iaFWK7KIE?si=UMkax7Zh9dbBz1za&t=227)
+
 💡 **비개발 직군과 협업하며 시각적 커뮤니케이션 역량 강화**
 
 ---
