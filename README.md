@@ -51,6 +51,20 @@
 
 ---
 
+#### 📄 [Document Classification (CV Competition)](https://github.com/moongs95/upstage-cv-classification-cv-5-moongs95)
+> **기간:** 2025.10–2025.11 | **역할:** EDA · 전처리 · 모델링 실험  
+> **Tech:** Python, PyTorch, Timm, Albumentations, OpenCV, scikit-learn, EasyOCR, Git, WandB  
+
+- 문서 이미지의 조도·회전·노이즈 등 **도메인 편향 분석 및 정규화**
+- Albumentations 기반 강력한 증강 파이프라인 구축 (Brightness, CLAHE, Rotate 등)
+- ResNeXt, EfficientNet, ConvNeXt, ViT 등 CNN·Transformer 백본 실험
+- Rotation TTA + Fold Ensemble로 성능 극대화
+- EasyOCR 기반 **Conditional Ensemble** 적용으로 혼동 클래스 개선  
+
+💡 **조도 보정·증강·OCR을 결합한 강건한(robust) CV 파이프라인 구축 경험**
+
+---
+
 #### 🏠 [Apartment Price Prediction](https://github.com/moongs95/upstage-ml-regression-ml_3_moongs95)
 > **기간:** 2025.09 | **역할:** 팀장  
 > **Tech:** Python, Scikit-learn, LightGBM, Optuna, WandB  
