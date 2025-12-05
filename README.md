@@ -40,15 +40,29 @@
 
 ### 🧩 Featured Projects
 
+#### 🗣️ [Dialogue Summarization (NLP Competition)](https://github.com/moongs95/)
+> **기간:** 2025.11–진행중 | **역할:** EDA · 전처리 · 데이터 증강 · 모델 실험  
+> **Tech:** Python, QLoRA, TF-IDF, Back-translation, HuggingFace, WandB  
+
+- 발화자 패턴·길이·토큰 수 기반 **EDA 및 시각화(분포·워드클라우드 등)**
+- 특수문자·불용어 제거 및 패턴 정규화를 통한 **전처리 품질 향상**
+- TF-IDF + 코사인 유사도로 **유사 대화 기반 요약 데이터 증강**
+- AI Hub 요약 데이터를 LLM으로 **대회 형식에 맞게 스타일 변환**
+- KoBART fine-tuning 및 **QLoRA로 24GB 환경에서 LLM 경량 학습 최적화**  
+
+💡 **전처리–증강–LLM까지 아우르는 실전 NLP 파이프라인 구축 경험**
+
+---
+
 #### 📄 [Document Classification](https://github.com/moongs95/upstage-cv-classification-cv-5-moongs95)
 > **기간:** 2025.10–2025.11 | **역할:** EDA · 전처리 · 모델링 실험  
-> **Tech:** Python, PyTorch, Timm, Albumentations, OpenCV, scikit-learn, EasyOCR, Git, WandB  
+> **Tech:** Python, PyTorch, Albumentations, EasyOCR, WandB  
 
 - 문서 이미지의 조도·회전·노이즈 등 **도메인 편향 분석 및 정규화**
 - Albumentations 기반 강력한 증강 파이프라인 구축 (Brightness, CLAHE, Rotate 등)
 - ResNeXt, EfficientNet, ConvNeXt, ViT 등 CNN·Transformer 백본 실험
 - Rotation TTA + Fold Ensemble로 성능 극대화
-- EasyOCR 기반 **Conditional Ensemble** 적용으로 혼동 클래스 개선  
+- EasyOCR 기반 **Conditional Ensemble** 적용으로 혼동 클래스 개선
 
 💡 **조도 보정·증강·OCR을 결합한 강건한(robust) CV 파이프라인 구축 경험**
 
@@ -70,7 +84,7 @@
 > **기간:** 2025.09 | **역할:** 팀장  
 > **Tech:** Python, Scikit-learn, LightGBM, Optuna, WandB  
 - 외부 데이터(교통·학군·금리 등) 융합 및 Feature Engineering  
-- Optuna 기반 LightGBM 최적화 (RMSE 12,533, 팀 3위)  
+- Optuna 기반 LightGBM 최적화 (RMSE 12,533)  
 
 💡 **Feature Engineering과 실험 관리 자동화 루틴 확립**
 
@@ -88,7 +102,7 @@
 #### 🧬 [Infectious Disease Data Pipeline Automation](#)
 > **기간:** 2023 | **역할:** 단독 개발  
 > **Tech:** Python, Pandas, Requests  
-- 감염병 데이터 수집·정제 자동화로 업무시간 50% 절감  
+- 감염병 데이터 수집·정제 파이프라인 구축으로 업무시간 70% 절감  
 
 💡 **작은 자동화부터 단계적으로 확장하는 효율적 전략 학습**
 
