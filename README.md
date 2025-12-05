@@ -88,14 +88,6 @@
 
 💡 **Feature Engineering과 실험 관리 자동화 루틴 확립**
 
----
-
-#### ☀️ [Heatwave Prediction Model – MOI](#)
-> **기간:** 2023 | **역할:** 데이터 분석가  
-> **Tech:** Pandas, Scikit-learn, GeoPandas, Folium  
-- 폭염 요인과 질환자 간 상관 분석 및 시각화  
-
-💡 **정확도보다 정책 인사이트 중심의 분석 경험**
 
 ---
 
