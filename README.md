@@ -38,6 +38,8 @@
 
 ---
 
+### 🧩 Featured Projects
+
 #### 📄 [Document Classification](https://github.com/moongs95/upstage-cv-classification-cv-5-moongs95)
 > **기간:** 2025.10–2025.11 | **역할:** EDA · 전처리 · 모델링 실험  
 > **Tech:** Python, PyTorch, Timm, Albumentations, OpenCV, scikit-learn, EasyOCR, Git, WandB  
@@ -51,8 +53,6 @@
 💡 **조도 보정·증강·OCR을 결합한 강건한(robust) CV 파이프라인 구축 경험**
 
 ---
-
-### 🧩 Featured Projects
 
 #### 🎮 [Game Recommendation MLOps Pipeline](https://github.com/moongs95/mlops-cloud-project-mlops-3-moongs95)
 > **기간:** 2025.09–2025.10 | **역할:** 팀장  
