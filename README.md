@@ -142,8 +142,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moongs95&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moongs95&layout=compact&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moongs95&show_icons=true&theme=default" alt="moongs95's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moongs95&layout=compact&theme=default" alt="Top Languages" height="150" />
 </p>
 
 ---
