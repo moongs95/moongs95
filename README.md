@@ -72,6 +72,45 @@
 
 ### 🧩 Featured Projects
 
+#### 🧾 [Receipt OCR Text Detection Optimization](#)
+> **기간:** 2026.01–2026.02 | **역할:** EDA · 전처리 설계 · 하이퍼파라미터 튜닝  
+> **Tech:** Python, PyTorch, DBNet, ResNet, Albumentations, WandB  
+
+- Small Text 비중 분석 기반 입력 해상도 전략 재설계  
+- 후처리 Threshold·Loss·Scheduler 조정을 통한 Recall 개선  
+- 모델 변경보다 파라미터·데이터 전략이 성능에 더 큰 영향 검증  
+- 고해상도 실험을 위한 batch/gradient accumulation 기반 메모리 최적화  
+
+💡 **Data-Centric 접근으로 성능을 끌어올린 실험 중심 CV 프로젝트**
+
+---
+
+#### 🏛️ [Policy Support AI Assistant (RAG + Agent)](https://github.com/moongs95/langchain-llm-langchain-3-moongs95)
+> **기간:** 2026.01 | **역할:** 기획 · 데이터 구조화 · 검색 아키텍처 설계  
+> **Tech:** Python, FastAPI, Qdrant, BM25, BGE-m3, LangChain, LangGraph  
+
+- 정책 공고 PDF 500+건 수집 및 LLM 기반 JSON 구조화  
+- Dense + Sparse Hybrid 검색 설계 및 RRF 결합 전략 적용  
+- 검색 단계 LLM 제거 → 속도·비용·재현성 개선  
+- 자격 판단 로직을 ELIGIBLE / NOT_ELIGIBLE / CANNOT_DETERMINE 구조로 설계  
+
+💡 **LLM을 사용하는 것이 아니라 통제하는 RAG 시스템 설계 경험**
+
+---
+
+#### 🔎 [Information Retrieval System Optimization (IR)](https://github.com/moongs95/scientific-knowledge-question-answering-ir-4-moongs95)
+> **기간:** 2025.12 | **역할:** 검색 전략 설계 · 파라미터 튜닝 · 성능 개선  
+> **Tech:** Python, BM25, Dense Embedding, Hybrid Search, RRF  
+
+- Sparse(BM25) + Dense Embedding 기반 Hybrid 검색 구조 설계  
+- max_candidates, threshold 조정을 통한 Recall 중심 최적화  
+- 검색 결과 분포 분석을 기반으로 동적 유사도 임계값 전략 적용  
+- 모델 변경이 아닌 검색 전략 및 파라미터 개선으로 성능 향상  
+
+💡 **검색은 생성이 아닌 설계 문제라는 관점에서 접근한 IR 최적화 경험**
+
+---
+
 #### 🗣️ [Dialogue Summarization (NLP Competition)](https://github.com/moongs95/)
 > **기간:** 2025.11–진행중 | **역할:** EDA · 전처리 · 데이터 증강 · 모델 실험  
 > **Tech:** Python, QLoRA, TF-IDF, Back-translation, HuggingFace, WandB  
