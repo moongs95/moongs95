@@ -1,5 +1,5 @@
 <h1 align="center">👋 안녕하세요, 권문진입니다.</h1>
-<h3 align="center">데이터로 세상을 해석하고 기술로 문제를 해결하는 실무형 AI 분석가</h3>
+<h3 align="center">AI 엔지니어링 역량을 갖춘 실무형 AI 데이터 분석가</h3>
 
 <p align="center">
   <a href="mailto:juliaanswls@naver.com">📧 Email</a> •
@@ -35,6 +35,38 @@
 ![WandB](https://img.shields.io/badge/WandB-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+
+---
+
+## 📍 Core Competency
+
+### 🤖 AI Engineering-Oriented Data Analyst
+
+단순 모델링에 그치지 않고 **데이터 구조화 → 모델 최적화 → 검색/추론 시스템 설계 → 서비스 구현**까지 수행할 수 있는 AI 엔지니어링형 데이터 분석가입니다.
+
+- EDA 기반 가설 수립 및 실험 중심 성능 개선
+- RAG · Hybrid Search(Dense + Sparse) 설계 경험
+- LLM 활용 범위 통제 및 비용·속도 최적화 아키텍처 설계
+- 데이터 수집 → 정제 → 적재 → 추론 API까지 End-to-End 구현
+- 실험 재현성 관리(WandB) 및 Docker 기반 환경 표준화
+
+---
+
+### 📊 Data-Centric Model Optimization
+
+- Small Text·밝기 편차·데이터 불균형 등 **데이터 특성 기반 설계 변경 경험**
+- 전처리·후처리·Threshold·Loss·Scheduler 조정을 통한 성능 개선
+- 모델 구조 변경보다 **파라미터·데이터 전략이 성능에 미치는 영향 검증 경험**
+
+---
+
+### ⚙️ MLOps & Automation Mindset
+
+- Airflow 기반 재학습/추론 자동화
+- FastAPI 기반 추론 서버 구현
+- Docker 및 GitHub Actions 기반 재현성·CI 환경 구성
+- 운영을 고려한 모델 설계 및 리소스 최적화 경험
 
 ---
 
